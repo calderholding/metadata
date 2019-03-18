@@ -1,4 +1,5 @@
 {
-    "name": "calderholding/moodle-local_metadata",
-    "type": "moodle-local"
+    "name": "calderholding/metadata",
+    "type": "moodle-local",
+    "version": "3.6.0"
 }
